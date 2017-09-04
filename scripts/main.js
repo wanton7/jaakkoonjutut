@@ -1,3 +1,4 @@
+/*
 (function() {
 	function updateDateTime() {
 		var date = new Date();
@@ -10,3 +11,4 @@
 	updateDateTime();
 	setInterval(updateDateTime, 1000);
 })();
+*/
